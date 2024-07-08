@@ -1,4 +1,4 @@
-# ISO-26262---Functional-Saftey
+# ISO-26262---Functional-Safety
 
 - Published in 2011, In 2018 it was republished 
 
