@@ -37,7 +37,7 @@
 
 - Gives an idea on ISO, requirement for functional safety, scope of functional safety
 
-# 2nd Part: Managementof functional safety
+# 2nd Part: Management of functional safety
 - How to handle functional safety
   
 - At the organizational level what are the things that we need to do to ensure functional 
